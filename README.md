@@ -1,2 +1,2 @@
 # robottest_templates
-A collection of robottest templates for API testing
+A collection of robottest templates for application testing
