@@ -1,0 +1,10 @@
+#robotframework
+selenium
+robotframework
+robotframework-djangolibrary
+robotframework-requests
+robotframework-httplibrary
+robotframework-selenium2library
+robotframework-lint
+robotframework-jsonlibrary
+RESTinstance
